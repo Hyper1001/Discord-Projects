@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KotoBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KotoBot_jar</output-path>
+    <root id="archive" name="KotoBot.jar">
+      <element id="module-output" name="KotoBot" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Discord4J-2.10.0-shaded.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/log4j-over-slf4j-1.7.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
